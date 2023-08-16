@@ -23,7 +23,7 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/DevAloshe/BlockChain-Based-Documents-Verfication-System-With-IPFS-main``
+``https://github.com/lokeshjoshi053/BlockDoc-Verify/main``
 
 
 2. Install the required packages:
@@ -43,10 +43,6 @@ npm install``
 3. Verify a document by clicking on the "Verify Document" button and entering its unique identifier (hash) in the input field. The system will retrieve the document from the IPFS network, decrypt it, and compare its hash with the one recorded in the Blockchain.
 
 4. The system will display a message indicating whether the document is authentic or not.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 - Metamask documentation
