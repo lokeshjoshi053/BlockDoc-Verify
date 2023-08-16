@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web3": "^1.7.0"
+    "web3": "^4.1.0"
   },
   "keywords": [],
   "description": ""
